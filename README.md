@@ -1,6 +1,6 @@
 # Playing around with the edge tpu
 
-To try this out
+To try this out using python 3.6
 
 
 Install Tensorflow (I am using version 1.13.0-dev20181116)
